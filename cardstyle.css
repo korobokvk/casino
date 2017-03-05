@@ -1,0 +1,40 @@
+input {
+	display: block;
+	margin: auto;
+	margin-bottom: 15px;
+}
+.blackSuite {
+	color: black;
+	font-size: 50px;
+	width: 150px;
+	height: 200px;
+	border: 1px solid black;
+	border-radius: 5px;
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+.redSuite {
+	color: red;
+	font-size: 50px;
+	width: 150px;
+	height: 200px;
+	border: 1px solid black;
+	border-radius: 5px;
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+#draw {
+	width: 175px;
+	height: 25px;
+	margin: auto;
+	display: block;
+	margin-bottom: 15px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
